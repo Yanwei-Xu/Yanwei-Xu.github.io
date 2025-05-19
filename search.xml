@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第11周总结</title>
+      <link href="/2025/05/19/%E6%80%BB%E7%BB%93/"/>
+      <url>/2025/05/19/%E6%80%BB%E7%BB%93/</url>
+      
+        <content type="html"><![CDATA[<p>1.搭建个人网站<br>2.高数导数与微分，微分中值定理<br>3.单片机矩阵键盘，模块化编程<br>4.单词每天20个<br>5.编码15页<br>6.博途与触摸屏联调</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 总结 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python学习之旅</title>
+      <link href="/2025/05/15/python%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/"/>
+      <url>/2025/05/15/python%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/</url>
+      
+        <content type="html"><![CDATA[<p>记录一下自己的python学习之旅以及python的学习计划，我的python是起源于一次偶然的机会，那时的我还是一个渴望拥有一台属于自己的电脑的网瘾少年，又恰好到了上大学的年纪，便借着学习编程的借口要求家人买一台性能比较强的电脑，电脑买回来之后又好像失了兴趣，屏幕前的我看着自己所有拥有的顶级手机、电脑等，回想着小学时期的自己玩着小伙伴家盗版电脑…</p><p>扯的有点远了，回到主题。</p><p>本文不会具体讨论python的某个具体语法或用法，只是描述具体的方向和应该掌握的技能等。因为世界上有着无数优秀的程序员，更难得可贵的是他们愿意著书立作，并且大多数都可找到电子版。以下是我的个人学习经历，可以做个参考。</p><p>这是python的官网 <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>，按照网上安装教程一步一步来即可，这里大多数同学所遇到的问题是cmd命令板识别不到python，问题所在是没有添加环境变量，如果你有过编程的基础，例如C语言，Java等，那么你只需按照官网的文档了解python即可 <a href="https://docs.python.org/3/">https://docs.python.org/3/</a>，如果你是一个完全的小白，需要一些教程，那么我推荐《python从入门到实践》这本书，在我的资源中即可找到此书的电子版，但如果有能力希望能够支持正版，编辑器推荐vs code <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>，自己去配置python环境，我并不推荐B站上的任何python教程，原因在于视频总是在灌溉一下技巧，并没有在最初学习时打好学习框架，完善起自己的知识树，如果你有了解过python肯定听说过这本书的大名，但这本书也并不是全能的，在此书当中你能学习到python的基础语法，以及在项目中python的使用和各种各样的第三库的使用，在学习这本书的过程中你还需要学习一下电脑的cmd命令，尽可能的折腾你的电脑，想起我们老师说过的一句话，”电脑买回来先学会重装系统，什么杀毒软件全都不需要装，我们的电脑裸奔就行了”，看完此书相信你对python有了具体的了解但感觉却意犹未尽，接下来你需要敲一敲代码和练习一些项目，如果你是电子相关专业的，那么《python极客项目编程》会非常适合你，里面会有硬件和软件相结合的项目，例如树莓派、arduino等，相信你会有所收获，但这时的你需要补充一些”做题技巧”，《python cookbook》是一本非常不错的进阶书籍，网络上的大多数人会买一本叫做《流畅的python》，我并不推荐此书.</p><p>到了这里你需要细分你的方向了，数据分析，游戏开发，web开发，爬虫等。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2025/05/15/hello-world/"/>
+      <url>/2025/05/15/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
